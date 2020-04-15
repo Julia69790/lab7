@@ -18,7 +18,7 @@
             
   Программа после запуска: <br>
   ![](/screen7/запуск.png)<br>
-  Открытие страницы addLesson:<br>
+  Страница addLesson:<br>
   ![](/screen7/addLesson.png)<br>
   После добавления урока:<br>
   ![](/screen7/проверка.png)<br>
